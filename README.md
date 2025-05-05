@@ -6,7 +6,7 @@ ___
 ### Installation Instructions
 Download the .ino file and configuration file into a new Arduino sketch so it creates a new project folder.
 
-Download the zip file. Extract all files. Drag the p0tted_plant_inferencing folder inside the extracted folder into your Arduino > libraries folder.
+Download the potted plant zip file. Extract all files. Drag the p0tted_plant_inferencing folder inside the extracted folder into your Arduino > libraries folder. Do the same with the alternate zip file if you have an NPK sensor. 
 
 Connect your soil sensor (you may need to set the Lily-T-HiGrow sensor as the board in Arduino if it does not auto-recognize) and flash. 
 
